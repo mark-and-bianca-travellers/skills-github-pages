@@ -7,4 +7,4 @@ it has been created during the build of this blog, to illustrate the creation pr
 
 ## We're in York
 It's been raining.  A lot!  
-![can you see this?](/assets/images/Picsew_20260127203607.jpeg)
+![flooded river Ouse]({{ "/assets/images/Picsew_20260127203607.jpeg" | relative_url }})
