@@ -7,4 +7,4 @@ it has been created during the build of this blog, to illustrate the creation pr
 
 ## We're in York
 
-![both of us against the York skyline](https://share.icloud.com/photos/0f2qkDK1bp9MsafnK35lxX1vg)
+![river Ouse, comparison, flooded and not](https://share.icloud.com/photos/071fLjA5VmQc79S5mCrI24SFQ)
