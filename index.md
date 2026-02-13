@@ -19,4 +19,6 @@ if (daysUntil > 0) {
 }
 </script>
 
-![plane flying between London and Bahamas]({{ "/assets/images/IMG_1587.png" | relative_url }})
+<img src="{{ "/assets/images/IMG_1587.png" | relative_url }}" 
+     alt="plane flying between London and Bahamas" 
+     width="600">
