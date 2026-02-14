@@ -1,6 +1,6 @@
 ---
 title: "Getting Ready!"
-date: 2026-02-14 07:33:00 +0000
+date: 2026-02-14 07:59:00 +0000
 ---
 It's the morning of Saturday before the penultimate Saturday before we go...or 2 weeks to go!
 
