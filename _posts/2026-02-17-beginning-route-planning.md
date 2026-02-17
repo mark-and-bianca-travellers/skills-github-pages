@@ -1,6 +1,6 @@
 ---
-Title: "Route Planning: The Beginning"
-Date: 2026-02-17 21:05:00 +0000
+title: "Route Planning: The Beginning"
+date: 2026-02-17 21:05:00 +0000
 ---
 Having grabbed two bargain flights in and out of Nassau, three weeks apart, we now need to plan where, precisely, we are going!
 
