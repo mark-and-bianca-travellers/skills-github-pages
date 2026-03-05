@@ -4,7 +4,7 @@ date:  2026-03-05 14:46:48 -0500
 ---  
 Getting about New Providence has been about walking and catching local buses (with the odd taxi thrown-in, where unavoidable).    
   
-In the morning, before and for a little while after sunrise, it’s been cool enough to walk.  Any time closer to the middle of the day *definitely *requires transportation!  Coming back from Downtown on Monday, we discovered the local bus, and in particular, route 9a.  
+In the morning, before and for a little while after sunrise, it’s been cool enough to walk.  Any time closer to the middle of the day *definitely* requires transportation!  Coming back from Downtown on Monday, we discovered the local bus, and in particular, route 9a.  
   
 Timmy (we later learnt the driver’s name) is the only 9a driver in the only 9a bus.  After dropping us close to home on Monday, he let us know he’d be passing by the same place ‘just after’ 7, 8 and 9 am on subsequent days.  On Wednesday, we went to give it a go, to travel back to Downtown.    
   
