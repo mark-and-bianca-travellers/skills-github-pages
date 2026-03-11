@@ -20,8 +20,10 @@ Again, the scenery is lovely, the sea rolling in and over an empty beach of whit
   
 ![Atlantic beach]({{"/assets/images/atlantic_beach.png"|relative_url}})  
   
-Returning for the Atlantic, we return to the coffee house we visited for breakfast.  More iced coffee and a delicious snack, sitting at a table in front of the store.  Everyone coming in or going out says “hello”, as if they know us.  And though we’re still talking, eating and drinking as the store closed, that was no problem at all.  The staff just wished us a good day as they left, ensuring we were not rushed at all.  
+Returning from the Atlantic, we return to the coffee house we visited for breakfast.  More iced coffee and a delicious snack, sitting at a table in front of the store.  Everyone coming in or going out says “hello”, as if they know us.  And though we’re still talking, eating and drinking as the store closed, that was no problem at all.  The staff just wished us a good day as they left, ensuring we were not rushed at all.  
   
 ![The dapple coffee shop]({{"/assets/images/dapple.png"|relative_url}})  
   
-Eventually, when the time seemed right, we wandered back to our little cottage at the dock for a brief rest from the sunshine, stopping at the gas station on the way for supplies of drinks and custard creams.  Later, we took a walk to find the restaurant we plan to eat at later today.  It looks lovely and is effectively right on the beach.  It will be good.😊   
+Eventually, when the time seemed right, we wandered back to our little cottage at the dock for a brief rest from the sunshine, stopping at the gas station on the way for supplies of drinks and custard creams.  Later, we took a walk to find the restaurant we plan to eat at later today.  It looks lovely and is effectively right on the beach.  It will be good.😊
+
+Quick update: we ate somewhere else!
