@@ -2,7 +2,7 @@
 title: "Santa Maria: straight out of a Bond movie"  
 date:  2026-03-14 15:05:23 -0400  
 ---  
-You know those scene in multiple Bond movies, where someone with an incredible body walks slowly out of a bright blue sea on to impossibly white sand?  Well, if that wasn’t filmed here, it really could have been.  
+You know the scene in multiple Bond movies, where someone with an incredible body walks slowly out of a bright blue sea on to impossibly white sand?  Well, if that wasn’t filmed here, it really could have been.  
 
 ![A beach out of a Bond movie]({{"/assets/images/bond_beach.png"|relative_url}})
   
