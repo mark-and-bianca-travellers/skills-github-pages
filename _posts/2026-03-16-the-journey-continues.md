@@ -8,7 +8,7 @@ It’s the morning after the night of the beers, as we continue our journey to E
   
 As usual, we were awake at 5-ish and looking on Maps for a place for breakfast.  We found somewhere called Louis & Steen’s, only thirty or so minutes away, walking slowly.  We got ready and set out.  We hadn’t got far when it began to spit with rain.  Just a little, but enough to have us check the forecast to see 0.00mm was expected.  We carried on.  As we figured out the safest way to walk, we really had arrived at the point of no return.  The heavens had truly opened, but carrying on didn’t seem to be any worse an option than continuing to the restaurant.   
   
-![Bianca walking in the rain ]({{"/assets/images/rain_walking.png"|relative_url}})  
+![Bianca walking in the rain ]({{"/assets/images/rain_waking.png"|relative_url}})  
   
 Within a few minutes, the sky was dark and the rain was falling in sheets. We ducked into the scrubland beside the road and stood under a palm tree whilst the worst of the rain passed over.  It wasn’t the best of cover: we were both soaked!  
   
