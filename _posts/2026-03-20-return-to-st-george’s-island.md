@@ -12,4 +12,4 @@ Though the weather is still stormy overnight, by 10am usual service is resumed, 
 
 So it turns out that Spanish Wells is the name of the town that covers most (all?) of St. George’s Island.  Who knew?
 
-It turned is a lovely place, with a beach to die for!  We walked for miles (well, a long way) watching kite surfers and solitary fishermen engaging with the seemingly endless shallows on a beach occupied by a dozen or so people.  Again, we are incredulous of the few other people that we see in such a beautiful place.  
+It is an enchanting place, with a beach to die for!  We walked for miles (well, a long way) watching kite surfers and solitary fishermen engaging with the seemingly endless shallows on a beach occupied by a dozen or so people.  Again, we are incredulous of the small number of other people that we see in such a beautiful place.  
