@@ -19,6 +19,6 @@ if (daysUntil > 0) {
 }
 </script>
 
-<img src="{{ "/assets/images/prop_plane.png" | relative_url }}" 
-     alt="propeller-plane on tarmac at Nassau" 
+<img src="{{ "/assets/images/bianca-mark-planning.PNG" | relative_url }}" 
+     alt="Bianca and Mark getting their heads together to plan the next trip." 
      width="600">
