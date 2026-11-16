@@ -9,4 +9,3 @@ We have just short of 12 hours of flying to look forward to, arriving at midday 
 More importantly, there’s a little house on a beach waiting for us, and a balmy 28°C 😁. 
 
 See you there.
-----
