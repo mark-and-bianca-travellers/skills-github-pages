@@ -2,6 +2,8 @@
 title: Blog Home
 layout: page
 ---
+<style>.post-title{display:none}</style>
+
 ## Welcome to our travel blog!
 
 **Travelling the World, again!**
