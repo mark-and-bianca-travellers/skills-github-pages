@@ -19,6 +19,6 @@ if (daysUntil > 0) {
 }
 </script>
 
-<img src="{{ "/assets/images/bus_spiderman_450.PNG" | relative_url }}" 
+<img src="{{ "/assets/images/bus_spiderman_450.png" | relative_url }}" 
      alt="local bus in Mahébourg, Mauritius." 
      width="600">
