@@ -1,7 +1,9 @@
 ---
-title: Welcome to our travel blog!
+title: Blog Home
 layout: page
 ---
+## Welcome to our travel blog!
+
 **Travelling the World, again!**
 
 <img src="{{ "/assets/images/bus_spiderman_450.png" | relative_url }}"
