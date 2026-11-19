@@ -15,7 +15,7 @@ if (daysUntil > 0) {
 } else if (daysUntil === 0) {
   countdownEl.textContent = 'We leave today!';
 } else {
-  countdownEl.textContent = 'We\'re planning our next trip (or perhaps the next two!)';
+  countdownEl.textContent = 'We\'re in Mauritius!';
 }
 </script>
 
