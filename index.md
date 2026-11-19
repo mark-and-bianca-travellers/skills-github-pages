@@ -19,6 +19,6 @@ if (daysUntil > 0) {
 }
 </script>
 
-<img src="{{ "/assets/images/bianca-mark-planning.PNG" | relative_url }}" 
-     alt="Bianca and Mark getting their heads together to plan the next trip." 
+<img src="{{ "/assets/images/bus_spiderman_450.PNG" | relative_url }}" 
+     alt="local bus in Mahébourg, Mauritius." 
      width="600">
