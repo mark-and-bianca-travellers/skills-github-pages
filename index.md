@@ -1,24 +1,31 @@
 ---
 title: Welcome to our travel blog!
+layout: page
 ---
-<p><strong><span id="countdown"></span></strong></p>
+**We're in Mauritius!**
 
-<script>
-const departureDate = new Date('2026-03-01T10:00:00');
-const now = new Date();
-const timeDiff = departureDate - now;
-const daysUntil = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
-
-const countdownEl = document.getElementById('countdown');
-if (daysUntil > 0) {
-  countdownEl.textContent = daysUntil + ' days until we leave!';
-} else if (daysUntil === 0) {
-  countdownEl.textContent = 'We leave today!';
-} else {
-  countdownEl.textContent = 'We\'re in Mauritius!';
-}
-</script>
-
-<img src="{{ "/assets/images/bus_spiderman_450.png" | relative_url }}" 
-     alt="local bus in Mahébourg, Mauritius." 
+<img src="{{ "/assets/images/bus_spiderman_450.png" | relative_url }}"
+     alt="local bus in Mahébourg, Mauritius."
      width="600">
+
+{% assign cutoff = 20261101 %}
+
+## Mauritius 2026
+{% for post in site.posts %}
+{% assign d = post.date | date: "%Y%m%d" | plus: 0 %}
+{% if d >= cutoff %}
+- {{ post.date | date: "%b %-d" }} · [{{ post.title }}]({{ post.url | relative_url }})
+{% endif %}
+{% endfor %}
+
+<details markdown="1">
+<summary><strong>Earlier trip</strong></summary>
+
+{% for post in site.posts %}
+{% assign d = post.date | date: "%Y%m%d" | plus: 0 %}
+{% if d < cutoff %}
+- {{ post.date | date: "%b %-d" }} · [{{ post.title }}]({{ post.url | relative_url }})
+{% endif %}
+{% endfor %}
+
+</details>
