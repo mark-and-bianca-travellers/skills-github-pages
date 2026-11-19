@@ -2,13 +2,13 @@
 title: Welcome to our travel blog!
 layout: page
 ---
-**We're in Mauritius!**
+**Travelling the World, again!**
 
 <img src="{{ "/assets/images/bus_spiderman_450.png" | relative_url }}"
      alt="local bus in Mahébourg, Mauritius."
      width="600">
 
-{% assign cutoff = 20261101 %}
+{% assign cutoff = 20260501 %}
 
 ## Mauritius 2026
 {% for post in site.posts %}
@@ -19,7 +19,7 @@ layout: page
 {% endfor %}
 
 <details markdown="1">
-<summary><strong>Earlier trip</strong></summary>
+<summary><strong>Bahamas Island Hopping 2026</strong></summary>
 
 {% for post in site.posts %}
 {% assign d = post.date | date: "%Y%m%d" | plus: 0 %}
