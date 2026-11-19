@@ -1,5 +1,6 @@
 ---  
-title: "Fun talking"  
+title: "Fun talking"
+excerpt: “Fascinating people in restaurants”
 date:  2026-11-18 21:07:04 +0400  
 ---
 
